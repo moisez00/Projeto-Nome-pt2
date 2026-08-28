@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.divisona{
+    display: block;
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    border: 2px solid black;
+    
+}
+a{
+    border: 2.5px solid black;
+    padding: 10px 20px;
+    display: inline-block;
+}
+.Foto{
+    border: 2px solid black;
+    width: 180px;
+    height: 200px;
+}
+p {
+    border: 1px solid grey;
+    margin-bottom: 10px;
+}
+.cookies{
+    margin-top: 20px;
+}
+.cookies2{
+    margin-bottom: 40px;
+}
+.div_pra_div1{
+    display: inline-block;
+    border: 2px solid black;
+    width: 87px;
+    height: 87px;
+    margin: 0;
+}
+.div_pra_div2{
+    display: inline-block;
+    border: 2px solid black;
+    width: 87px;
+    height: 87px;
+    margin-left: -20px;
+}
+.div_pra_div3{
+    display: inline-block;
+    border: 2px solid black;
+    width: 87px;
+    height: 87px;
+}
+.rodape{
+    margin: 10px 20px 30px 40px;
+    border: 2px solid black;
+}
